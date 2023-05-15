@@ -1,0 +1,28 @@
+.orador{ 
+    border: 1px solid black;
+    width: 25%;
+
+}
+
+.orador img {
+    width: 100%;
+    
+}
+
+.textoTarjOrador{
+    font-size: .8rem;
+    line-height: 1.4rem;
+    text-align: justify ;
+}
+
+.textoboton{
+    font-size: .7rem;
+}
+
+.carousel-item img{
+    filter: brightness(50%);
+}
+
+.colorfooter¨{
+    color: #145369;
+}
